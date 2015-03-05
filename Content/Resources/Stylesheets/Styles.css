@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 body
 {
@@ -15,12 +15,16 @@ h2
 {
 	font-weight: bold;
 	font-size: 18.0pt;
+	font-family: Constantia;
 }
 
 h3
 {
 	font-weight: bold;
 	font-size: 14.0pt;
+	font-family: Consolas;
+	background-color: #696969;
+	color: #ffffff;
 }
 
 h4
@@ -86,5 +90,36 @@ MadCap|dropDownHotspot
 	font-style: italic;
 	text-decoration: none;
 	color: #006600;
+}
+
+h1.v11
+{
+	font-weight: bold;
+	font-size: 24.0pt;
+	background-color: #ffff00;
+	color: #800080;
+}
+
+div.v11	/*Comment in v11*/
+{
+	background-color: #fffacd;
+}
+
+table.v11	/*v11*/
+{
+	width: 100%;
+	caption-side: top;
+	margin-left: 0;
+	margin-right: auto;
+}
+
+tr.v11	/*v11*/
+{
+	
+}
+
+td.v11
+{
+	
 }
 
