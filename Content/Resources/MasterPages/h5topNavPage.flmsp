@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-<head>
-</head>
-<body>
-	<MadCap:breadcrumbsProxy/>
-	<MadCap:bodyProxy/>
-	<MadCap:miniTocProxy/>
-	<MadCap:topicToolbarProxy class="" style="mc-topic-toolbar-items: ;" />
-</body>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="150" MadCap:lastWidth="624">
+    <head>
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy />
+        <MadCap:menuProxy data-mc-skin="/Project/Skins/h5topNav1menu.flskn" mc-linked-toc="/Project/TOCs/Master.fltoc" style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+        <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: Print ExpandAll PreviousTopic Home NextTopic;" data-mc-skin="/Project/Skins/h5topNav1topicToolbar.flskn" />
+        <MadCap:bodyProxy />
+        <MadCap:miniTocProxy />
+    </body>
 </html>

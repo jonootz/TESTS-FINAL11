@@ -10,7 +10,11 @@
   TopicToolbarSkin="/Project/Skins/h5topNav1topicToolbar.flskn"
   SearchBarSkin="/Project/Skins/h5topNav1searchbar.flskn"
   SearchResultsSkin="/Project/Skins/h5topNav1searchResults.flskn"
-  ConditionTagExpression="exclude[Default.red] ">
+  ConditionTagExpression="exclude[Default.red] "
+  UseCustomTopicFileExtension="false"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="png"
+  MasterPage="/Content/Resources/MasterPages/h5topNavPage.flmsp">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
