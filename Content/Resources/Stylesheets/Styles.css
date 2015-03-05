@@ -111,6 +111,8 @@ table.v11	/*v11*/
 	caption-side: top;
 	margin-left: 0;
 	margin-right: auto;
+	background-color: #fff8dc;
+	border: solid 2px #ffd700;
 }
 
 tr.v11	/*v11*/
@@ -134,5 +136,15 @@ h2.divbottomv11
 	font-size: 18.0pt;
 	font-family: Constantia;
 	margin-bottom: 2em;
+}
+
+table.v11LeftCollapse
+{
+	caption-side: top;
+	margin-left: 0;
+	margin-right: auto;
+	background-color: #fff8dc;
+	border: solid 2px #ffd700;
+	width: auto;
 }
 
