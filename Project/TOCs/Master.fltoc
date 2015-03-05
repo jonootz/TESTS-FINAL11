@@ -4,4 +4,9 @@
   <TocEntry
     Title="Topic"
     Link="/Content/V11Topic.htm" />
+  <TocEntry
+    Title="Images"
+    Link="../../../TESTS-images/NewProject1.flprj"
+    ReplaceMergeNode="false"
+    AbsoluteLink="file:///C:/Users/Harkins/Desktop/TESTS/TESTS-images/NewProject1.flprj"></TocEntry>
 </CatapultToc>
