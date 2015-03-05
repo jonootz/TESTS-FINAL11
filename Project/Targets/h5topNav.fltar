@@ -9,7 +9,8 @@
   MenuSkin="/Project/Skins/h5topNav1menu.flskn"
   TopicToolbarSkin="/Project/Skins/h5topNav1topicToolbar.flskn"
   SearchBarSkin="/Project/Skins/h5topNav1searchbar.flskn"
-  SearchResultsSkin="/Project/Skins/h5topNav1searchResults.flskn">
+  SearchResultsSkin="/Project/Skins/h5topNav1searchResults.flskn"
+  ConditionTagExpression="exclude[Default.red] ">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
