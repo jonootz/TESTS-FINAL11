@@ -3,7 +3,11 @@
   Version="1">
   <TocEntry
     Title="Topic"
-    Link="/Content/V11Topic.htm" />
+    Link="/Content/V11Topic.htm">
+    <TocEntry
+      Title="More Tables"
+      Link="/Content/More Tables.htm" />
+  </TocEntry>
   <TocEntry
     Title="Images"
     Link="/Content/Images.htm" />
